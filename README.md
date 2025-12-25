@@ -6,6 +6,11 @@ A robust, console-based banking application built with **Java** and **JDBC**. Th
 
 This project is a backend simulation of a banking environment. It moves beyond simple CRUD operations by implementing **ACID properties** (Atomicity, Consistency, Isolation, Durability) to ensure financial transactions (like transfers) are safe and reliable. It also features a dual-layer security model to protect user accounts.
 
+<img width="1767" height="709" alt="Banking System1" src="https://github.com/user-attachments/assets/48ec3bba-c2aa-4973-b7d0-a22c043295c6" />
+<img width="1681" height="856" alt="Banking System" src="https://github.com/user-attachments/assets/9a957c1b-284c-4d3d-bc3e-9389de7e82c6" />
+
+
+
 ## 🚀 Key Features
 
 * **Secure Authentication:** User registration and login system using email and password.
